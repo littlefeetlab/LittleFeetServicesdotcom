@@ -1,0 +1,7 @@
+Sitemap: https://littlefeetservices.com/sitemap.xml 
+
+# global
+User-agent: *
+Disallow: /page/
+
+
